@@ -1,2 +1,1 @@
-# fresnel_diffraction
-Fresnel Diffraction
+# Fresnel Diffraction
